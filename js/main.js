@@ -1,5 +1,5 @@
 //JS File
 (function(){
 	console.log('Hello, I am trying to create a merge conflict!');
-	console.log('Hello darkness my old friend');
+	console.log('Changing for the sake of a merge conflict');
 })();
