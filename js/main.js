@@ -1,4 +1,4 @@
 //JS File
 (function(){
-	console.log('Hello World!');
+	console.log('Hello, I am trying to create a merge conflict!');
 })();
